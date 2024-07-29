@@ -1,0 +1,14 @@
+C:\Users\phant\Documents\Work\Entelect University Cup\EntelectUniCup2_Example\bin\Debug\EntelectUniCup2_Level1.exe.config
+C:\Users\phant\Documents\Work\Entelect University Cup\EntelectUniCup2_Example\bin\Debug\EntelectUniCup2_Level1.exe
+C:\Users\phant\Documents\Work\Entelect University Cup\EntelectUniCup2_Example\bin\Debug\EntelectUniCup2_Level1.pdb
+C:\Users\phant\Documents\Work\Entelect University Cup\EntelectUniCup2_Example\obj\Debug\EntelectUniCup2_Example.csproj.AssemblyReference.cache
+C:\Users\phant\Documents\Work\Entelect University Cup\EntelectUniCup2_Example\obj\Debug\EntelectUniCup2_Example.csproj.CoreCompileInputs.cache
+C:\Users\phant\Documents\Work\Entelect University Cup\EntelectUniCup2_Example\obj\Debug\EntelectUniCup2_Level1.exe
+C:\Users\phant\Documents\Work\Entelect University Cup\EntelectUniCup2_Example\obj\Debug\EntelectUniCup2_Level1.pdb
+C:\Users\phant\Documents\Work\Entelect University Cup\SWMG Round 2\EntelectUniCup2_SWMG\bin\Debug\EntelectUniCup2_Level1.exe.config
+C:\Users\phant\Documents\Work\Entelect University Cup\SWMG Round 2\EntelectUniCup2_SWMG\bin\Debug\EntelectUniCup2_Level1.exe
+C:\Users\phant\Documents\Work\Entelect University Cup\SWMG Round 2\EntelectUniCup2_SWMG\bin\Debug\EntelectUniCup2_Level1.pdb
+C:\Users\phant\Documents\Work\Entelect University Cup\SWMG Round 2\EntelectUniCup2_SWMG\obj\Debug\EntelectUniCup2_Example.csproj.AssemblyReference.cache
+C:\Users\phant\Documents\Work\Entelect University Cup\SWMG Round 2\EntelectUniCup2_SWMG\obj\Debug\EntelectUniCup2_Example.csproj.CoreCompileInputs.cache
+C:\Users\phant\Documents\Work\Entelect University Cup\SWMG Round 2\EntelectUniCup2_SWMG\obj\Debug\EntelectUniCup2_Level1.exe
+C:\Users\phant\Documents\Work\Entelect University Cup\SWMG Round 2\EntelectUniCup2_SWMG\obj\Debug\EntelectUniCup2_Level1.pdb
